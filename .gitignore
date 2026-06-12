@@ -8,7 +8,6 @@ venv/
 # Mengabaikan file dataset mentah yang ukurannya terlalu besar
 *.zip
 BX-Books.csv
-BX-Users.csv
 BX-Book-Ratings.csv
 
 # Mengabaikan log file
