@@ -5,9 +5,9 @@ Proyek ini adalah implementasi Sistem Rekomendasi berbasis Semantic Web / Knowle
 ## 👥 Anggota Kelompok & Pembagian Tugas
 
 1. **DORTEA RIBKA TADETE** - Data Engineer (Fokus pada `scripts/data_cleaning.py`)
-2. **JUSTISYA TUMBEL** - Knowledge Graph Engineer (Fokus pada `database/cypher_queries.cql` & Neo4j)
-3. **[Nama Anggota 3]** - Backend Developer (Fokus pada `backend.py`)
-4. **[Nama Anggota 4]** - Frontend Developer (Fokus pada `app.py`)
+2. **JUSTISYA INJILIA TUMBEL** - Knowledge Graph Engineer (Fokus pada `database/cypher_queries.cql` & Neo4j)
+3. **DELAFANNY INSERNBO RUMBIAK** - Backend Developer (Fokus pada `backend.py`)
+4. **JONATHAN BILLY PESSAK** - Frontend Developer (Fokus pada `app.py`)
 
 ---
 
